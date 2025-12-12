@@ -1,4 +1,4 @@
-# 📚 Book Community Service (The Garden)
+# 📚 Book Community Service (Book The Garden)
 
 ## 📖 Project Overview
 사용자들이 도서 정보를 탐색하고, 감상평(Review)을 공유하며 소통할 수 있는 **도서 커뮤니티 플랫폼**입니다.
